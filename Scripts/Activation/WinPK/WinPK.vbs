@@ -1,3 +1,9 @@
+'This script may or may not work'
+'No assurance is provided'
+'Use it at your own risk'
+'Copy and ditribute the code, link the credits to my repo'
+
+
 Option Explicit 
 
 Dim strComputer, objWMIService, objItem, Caption, colItems
