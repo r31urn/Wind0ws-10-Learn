@@ -1,0 +1,53 @@
+Step 0; Get Windows 10.
+
+Download Windows 10
+
+From Microsoft ->
+
+          Media creation tool -> http://go.microsoft.com/fwlink/?LinkId=691209
+          Download the tool
+          Run as “administrator”
+          Skip the first step to get updates
+          Select Accept.
+          On the What do you want to do? page, select Create installation media for another PC and then select.
+          If the Edition details are left as recommend it will download the edition you have installed.
+          Select the Edition to download.
+          Editions you can download (Both 64 and 32 bit)
+          Windows 10 Home
+          Windows 10 Pro
+          Windows 10 SL
+          N editions
+          Select create ISO file.
+          Select the location where the ISO needs to be saved.
+          DONE (The ISO will be a max sizer of 4.130 GB).
+          MCT will always download the latest version of Windows Build.
+                                                               OR
+
+ 
+
+Direct Link from Microsoft Site –> https://www.microsoft.com/en-in/software-download/windows10ISO
+          NOTE: Will directly start on non Windows computers. Skip these steps  if you have Mac or ChormeOS or Linux,  For Windows computers follow these steps as a workaround.
+          Works best on Internet explorer.
+          Open IE
+          Press F12 or select Developer options from settings icon (Gear on the ribbon)
+          Select Emulation in the option (on the Dev toolbar)
+          Select Apple Safari
+          The page will refresh
+          On the page, you will have a option to Edition
+          Select the Edition and Build option (Creators or Anniversary Build)
+          Select Language.
+           Select 32 or 64 bit Download.
+          Download will start.
+          Don’t be a IDIOT, the download link is only valid for 24 Hrs.
+          Fancy a different method a different Edition or more options
+
+                                         OR
+
+Check out Techbench by WZT –> https://tb.rg-adguard.net/
+
+          Select the Options on the screen and start the Download for desired Microsoft product.
+          NOTE: Links generated are from Microsoft download repository .
+          If the site is down, Sorry 😦
+ 
+
+-r3turn 0;
