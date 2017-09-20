@@ -1,0 +1,43 @@
+We will require a computer, Windows 10 ISO, A flash drive/Pendrive/USB storage/Thumb drive. Or DVD if you fancy it,
+
+ Create installation Media.
+
+Best Way to create a bootable media, with more options.
+
+        Download Rufus –>https://rufus.akeo.ie/downloads/rufus-2.17p.exe
+        Simple to use
+        Select the USB drive, Select the Media type  (MBR or GPT for UEFI or CSM/legacy BIOS)
+        Start the process (You get to see the logs too. 🙂 )
+        Credits to Pete –>https://rufus.akeo.ie/
+        From Media creation tool (Not really the best way)
+
+Media creation tool -> http://go.microsoft.com/fwlink/?LinkId=691209
+        Download the tool.
+        Run as “administrator”.
+        Skip the first step to get updates.
+        Select Accept.
+        On the What do you want to do? page, select Create installation media for another PC and then select.
+        If the Edition details are left as recommend it will download the edition you have installed.
+        Select the Edition to download.
+        Editions you can download (Both 64 and 32 bit),
+                Windows 10 Home
+                Windows 10 Pro
+                Windows 10 SL
+                N editions
+        Select USB flash drive. Attach a blank USB flash drive with at least 5 GB of space. Any content on the flash drive will be deleted.
+        Done!!
+        The USB installation media created will be for UEFI/CSM legacy in MBR format.
+ 
+
+Still stuck with a DVD? :/
+
+        Windows 7 USB DVD creation tool –>http://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=wudt&DownloadId=96313&FileTime=129048694816630000&Build=21055
+        https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool
+        Needs installation (and dependencies to run)
+        Install  select the ISO
+        Select the DVD or USB
+        Start the Copying process
+        Can create only in MBR for UEFI/CSM legacy BIOS.
+ 
+
+-r3turn 0;
