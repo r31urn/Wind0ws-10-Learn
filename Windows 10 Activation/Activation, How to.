@@ -1,0 +1,30 @@
+In short, buy Windows 10 Product key.
+
+Piracy is bad
+
+
+Windows 10 Activation 
+
+# Refer -> https://support.microsoft.com/en-in/help/12440/windows-10-activation
+
+
+Windows 10 Activation works this way
+--> If you have upgraded from Windows 7/8.1 to 10 --> Digital licence based on hardware ID, And the previous product key.
+    (Previous version product key can be used to activate windows 10 but was feature was removed after Jan 2017).
+--> If you have a OEM product key 5x5 code includes oem dm/ coa non spl/dwgrd , uses the product key + digital licence based on the hardware ID.
+--> If you purchase a Windows 10 product key from retail store (Physical copy of the product key or DPK) 5x5 code, uses the product key + digital licence based on the hardware ID.
+(In above cases you can actually remove the product key and do a clean install and still activate on the same hardware with out the key--> Digital linked to the hardware. )
+--> If you buy it directly from the store, then the license is linked to your MSA (Microsoft account) and your hardware ID.
+In all the cases the licenses can be linked to your MSA
+There is no Product key in the store purchase as a digital license (Nothing as such as its stored on sever as a 5x5 or can be retrieved to a 5x5 code) .
+
+The devices listed on your Microsoft account (https://account.microsoft.com/devices) are just the devices linked to your account (Logged in with your account regardless of activation, type of product key used (VL-MAK GVLK MSDN OEM Retail )Its the devices logged in with your account.
+/ Original equipment Manufacturer Digital marker
+/ OEM Certificate of Authenticity
+/ OEM COA NON System pre-locked
+/ OEM Downgrade Rights.
+
+First one is where only a Window 10 sticker on the computer (Product key is digitally injected in the computer (WMIC command will retrieve the key or the showkeyplus :p)
+Second is where a Windows product key is printed on the a sticker and usually stuck to the tower , you 90% of the time will have to enter the product key to activate (System builder will do this most often like CyberPC UK or NCIX in US,, etc).
+Third is the same , OEM SPL is disconnected except the in rare sever scenarios so its always (NON SPL)
+Forth being when you order a computer with Windows 10 Home and you want to upgarde you add a Windows 10 pro during a purchase then you will get a machine with a Windows 10 Home and sticker of the Windows 10 Pro key, you will need to enter the key to upgrade.
