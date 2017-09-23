@@ -1,0 +1,55 @@
+Activating your Windows 10 
+
+Where to find my product key -->
+
+https://support.microsoft.com/en-in/help/10749/windows-product-key
+
+Quote " A Windows product key is a 25-character code used to activate Windows. It looks like this:
+
+PRODUCT KEY: XXXXX-XXXXX-XXXXX-XXXXX-XXXXX " 
+Where to find your product key depends on how you got your copy of Windows:
+
+->From an authorized retailer. The product key is on a label or card inside the box that Windows came in.
+->A new PC running Windows. The product key is pre-installed on your PC, included with the packaging the PC came in, or included on the Certificate of Authenticity (COA) attached to the PC.
+->A digital copy from a Microsoft website. The product key is in the confirmation email you received after buying it. Or, it may be distributed as a digital license if you bought Windows 10, in which case it doesn't include a product key.
+->Free upgrade to Windows 10. If you upgraded to Windows 10 for free from Windows 7 or Windows 8.1, you should have a digital license instead of a product key. 
+
+
+Windows 10 activtaion after you Purchase a Product key 
+
+Method 1
+
+-> Navigate Start  button, then select Settings  > Update & security  > Activation --> Change Product Key 
+-> Enter the 25-character code then click next, then on Activate.
+-> Depending on the Product key you have 
+    -> Windows will be activated with a message with "Windows is activated"
+    -> Windows will be activated with a message with "Windows is activated" and once you press the 'ok', you will see a status as 'Windows is activated with digital license ("linked to your Micoroft account"if you have signed into your Microsoft account)'
+    -> Windows cannot be activated 
+      --> Error messages --> https://support.microsoft.com/en-in/help/10738/windows-10-get-help-with-activation-errors
+    
+    
+Method 2
+
+-> Press 'Windows' key and 'R' key together to open the run program
+-> Type SLUI 3
+-> Enter the 25-character code 
+-> Press 'Next'
+-> Windows will be activated or you will recive a error code
+
+
+Method 3 
+
+-> Open CMD in admin mode
+-> Type ' slmgr -ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX '
+-> Press enter 
+-> You will either get (Product key insatlled suceesfully or error code)
+-> If insatlled successfully,
+-> Type ' slmgr -ato '
+-> You will either get 'Product activated sucessfully or a error code'
+
+
+-r3turn
+
+Soucres ->
+Find more informaion on the commands or get indepth information on the activation from TECHNET -->https://technet.microsoft.com/
+
