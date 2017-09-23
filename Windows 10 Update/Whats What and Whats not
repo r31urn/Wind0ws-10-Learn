@@ -1,0 +1,35 @@
+Windows 10 is a totally diffrent from older versions of WIndows.
+
+Qoute "Windows 10 is a service, which means it gets better through periodic software updates"
+BS
+
+Windows 10 recives OTA upadtes just like in a android.
+
+GO DEEP ABOUT THE UPDATES AND WINDOWS 10 AS A SERVICE HERE --> https://docs.microsoft.com/en-us/windows/deployment/update/waas-overview
+
+Forget CB CBB LTSB
+
+Naming Changed
+
+--> Semi-Annual Channel - We will be referreing to Current Branch (CB) as "Semi-Annual Channel (Targeted)", while Current Branch for Business (CBB) will simply be referred to as "Semi-Annual Channel"
+--> Long-Term Servicing Channel. These are less frequent releases, expected every 2-3 years (with the next one expected in 2019), designed for special-purpose PCs such as those used in point-of-sale systems or controlling factory or medical equipment.  Each of these releases will be serviced for 10 years from the date of release.  (The Long-Term Servicing Channel replaces the Long-Term Servicing Branch [LTSB].)
+
+If you are not any major enterprise owning 1000s of PCs or something like that. You just fall into Semi - Annual,
+  that is you will get a major update in somewhere 2 a year.
+  
+--> Insider Perview  - Testing builds and BETA 
+ Find all the new releases here --> https://changewindows.org/
+ Find the Updates released here --> https://support.microsoft.com/en-in/help/4018124/windows-10-update-history
+ Detailed infromation on releases with there branches -->https://technet.microsoft.com/en-us/windows/release-info
+ 
+Windows 10 Updates based on Edtion 
+ 
+Windows 10 Home (Bull S*** ) -->Simple. You cannot change any this about how the updates are delivered or when its downloaded.
+Windows 10 Pro (Edu, Pro Edu, N)      --> You can change most of the setting defer updates, pause updates, from settings.
+                                      --> you can even play around Group policy and registry. 
+Windows 10 Enterprise, LTSB           --> You are the BOSS.
+
+Windows 10 Pro price would not be justified if you a home user.
+BONUS you can still play around registry to pause updates up to a point.
+
+
